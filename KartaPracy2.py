@@ -14,8 +14,17 @@
 
 #zad 3 
 
-wiek = int(input("Podaj wiek: "))
-if wiek>=18:
- print("jesteś osobą pełnoletnią! BRAWO! A teraz Uciekaj")
-else:
-  print("Jesteś nie pełnoletni! Marsz do domu")
+# wiek = int(input("Podaj wiek: "))
+# if wiek>=18:
+#  print("jesteś osobą pełnoletnią! BRAWO! A teraz Uciekaj")
+# else:
+#   print("Jesteś nie pełnoletni! Marsz do domu")
+
+#zad 4
+
+# LIMIT = 20
+# waga = int(input("Ile waży to chłopie"))
+# if waga <=LIMIT:
+#   print("A jedź Pan")
+# else:
+#   print("OJJ Panie nie może pan jechać")
