@@ -1,4 +1,4 @@
-#zad 1
+ #zad 1
 # a = int(input())
 # b = int(input())
 # if (a + b) % 2 == 0:
@@ -15,13 +15,18 @@
 #   print("Nie")
 
 #Zad 3
-# k = str(input())
-# l = str(input())
-# m = str(input())
-# if k== l and m : 
+# k = int(input())
+# l = int(input())
+# m = int(input())
+# if k== l :
 #   print("Tak")
-# else :
-#   print("Nie")
+#   print("k,l") 
+# if l==m :
+#   print("Tak")
+#   print("l,m") 
+# if m==k :
+#   print("Tak")
+#   print("m,k") 
 #zad 4
 # a = str(input())
 # b = str(input())
@@ -46,9 +51,12 @@
 #   print("Nie")
 
 #Zad 6
-a = int(input())
-b = int(input())
-c = int(input())
-if a*a+b*b==c*c :
-  print("Trójkąt prostokątny")
-if 
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# if a*a+b*b==c*c :
+#   print("Trójkąt prostokątny")
+# if a*a+b*b<c*c :
+#   print("Trójkąt rowzartokątny")
+# if a*a+b*b>c*c :
+#   print("Trójkąt ostrokątny")
