@@ -21,3 +21,24 @@
 # for x in range(110,1000,11):
 #   print(x, end=" ")
 #   print("\n", "\n")
+
+#zad 5
+# ile = int(input("Ile liczb podasz"))
+# n = int(input("Podaj liczbe"))
+# a = 0
+# for i in range(1, n+1):
+#   a += i
+#   print(a)
+
+#zad 6
+# k = int(input("Podaj liczbę parzystą"))
+# for i in range(2,101,2):
+#   print(i, end=" ")
+#zad 7
+# m = int(input())
+# for i in range(11,100,3):
+#   print(i, end=" ")
+
+#zad 8
+W0 = int(input("Podaj kwotę wejściową"))
+L = int(input("Podaj okres inwestycji z dokładnością do pół roku"))
