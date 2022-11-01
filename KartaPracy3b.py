@@ -23,18 +23,18 @@
 #   print("\n", "\n")
 
 #zad 5
-# ile = int(input("Ile liczb podasz"))
-# n = int(input("Podaj liczbe"))
+# n = int(input("Ile liczb wpiszesz?"))
 # a = 0
-# for i in range(1, n+1):
-#   a += i
+# for i in range(n):
+#   k = int(input())
+#   a += k
 #   print(a)
 
 #zad 6
 # k = int(input("Podaj liczbę parzystą"))
 # suma = 0
-# for i in range(k,2) :
-#   suma = suma + i
+# for i in range(0,2 * k,2) :
+#   suma += i
 # print(suma)
 #zad 7
 # m = int(input())
@@ -44,3 +44,10 @@
 #zad 8
 # W0 = int(input("Podaj kwotę wejściową"))
 # L = int(input("Podaj okres inwestycji z dokładnością do pół roku"))
+
+#Zad 9
+
+#Zad 10
+for i in range(1,1001,):
+  i = ** (1/2)
+  print(i, end=" ")
