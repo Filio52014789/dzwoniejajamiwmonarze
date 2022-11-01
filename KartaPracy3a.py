@@ -12,8 +12,8 @@
 #   else:
 #     print("--", end=" ")
 #zad 3
-n = int(input())
-for i in range
+# n = int(input())
+# for i in range
 
 #zad 4
 # n = int(input())

@@ -42,12 +42,17 @@
 #   print(i, end=" ")
 
 #zad 8
-# W0 = int(input("Podaj kwotę wejściową"))
-# L = int(input("Podaj okres inwestycji z dokładnością do pół roku"))
-
+#nie umiem tego zrobic, ponieważ nigdy takiego czegoś nie miałem
 #Zad 9
-
+# n = int(input())
+# suma = 0
+# for i in range(21,n+1,100):
+#   suma += i
+# print(suma)
 #Zad 10
-for i in range(1,1001,):
-  i = ** (1/2)
-  print(i, end=" ")
+# import math
+# for i in range(1,1000):
+#   if i % 10 == math.sqrt(i):
+#     print(i)
+#   elif i % 100 == math.sqrt(i):
+#     print(i)
