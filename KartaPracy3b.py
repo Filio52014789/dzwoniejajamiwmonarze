@@ -42,12 +42,12 @@
 #   print(i, end=" ")
 
 #zad 8
-W0 = int(input("Podaj kwotę wejściową "))
-L = int(input("Podaj okres z dokładnością do pół roku "))
-procent = 61
-suma = W0 + procent
-for i in range(W0,suma):
-  print(i *L, end=" ")
+# W0 = int(input("Podaj kwotę wejściową "))
+# L = int(input("Podaj okres z dokładnością do pół roku "))
+# procent = 61
+# suma = W0 + procent
+# for i in range(W0,suma):
+#   print(i *L, end=" ")
 #Zad 9
 # n = int(input())
 # suma = 0
