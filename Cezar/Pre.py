@@ -25,6 +25,8 @@
 
 # wypiszcie kody ASCII literek napisu POLSKA
 
-napis = "POLSKA"
-for i in range(len(napis)):
-  print( chr(65 + (ord(napis[i])-65+3) %26))
+# napis = "POLSKA"
+# for i in range(len(napis)):
+#   print( chr(65 + (ord(napis[i])-65+3) %26))
+
+
