@@ -82,12 +82,12 @@
 # print(999-(999 % 38))
 
 #opcja 2
-n = int(input())
-suma = 0 
-licznik = 0
-for i in range(999,99,-1):
-  if i % 37 == 0:
-    suma = suma + i
-  if licznik == n:
-      break
-print(suma)
+# n = int(input())
+# suma = 0 
+# licznik = 0
+# for i in range(999,99,-1):
+#   if i % 37 == 0:
+#     suma = suma + i
+#   if licznik == n:
+#       break
+# print(suma)
